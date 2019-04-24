@@ -1,0 +1,2 @@
+# Minerales
+Trabajo de CLIPS
